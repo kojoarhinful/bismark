@@ -2,18 +2,6 @@ import Link from "next/link"
 
 const projects = [
   {
-    title: "github stories",
-    description: "A playful browser extension for viewing stories on your GitHub dashboard.",
-    tech: "COMING SOON..",
-    link: "#",
-  },
-  {
-    title: "bundler-plugin",
-    description: "A webpack/vite plugin that optimizes asset loading and improves build performance.",
-    tech: "JavaScript, Webpack, Vite",
-    link: "https://github.com/kojoarhinful/bundler-plugin",
-  },
-  {
     title: "menso",
     description: "Simple theme for websites and blogs.",
     tech: "CSS",
