@@ -14,7 +14,7 @@ export default function BuildPage() {
     <div>
       <h1 className="text-lg font-light mb-2">builds</h1>
       <p className="text-sm text-gray-400 dark:text-gray-400 light:text-gray-600 mb-6">
-        I've tried a lot of things but these are the ones I could showcase for now.
+        I like hacking on tiny side projects.
       </p>
 
       <div className="space-y-0">
